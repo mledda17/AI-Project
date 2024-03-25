@@ -20,13 +20,3 @@ Our findings indicate that the neural network model achieves superior accuracy a
 
 ## Limitations and Future Work
 The project acknowledges limitations such as the sample size and feature selection, which could impact model accuracy. Future directions include increasing the dataset size, refining feature extraction methods, and exploring more complex neural network architectures for improved spam detection.
-
-## Contribute
-We welcome contributions from the community to extend the dataset, propose new features, or suggest improvements to the machine learning models. Please refer to our contribution guidelines for more details.
-
-### License
-This project is open-sourced under the MIT license.
-
----
-
-Feel free to adjust this description to better fit the specifics of your GitHub repository, including any additional sections or details you find relevant.
